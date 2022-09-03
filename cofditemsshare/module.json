@@ -1,0 +1,82 @@
+{
+	"name": "cofditemsshare",
+	"title": "Chronicles of Darkness Items Share",
+	"description": "Sharing Chronicles of Darkness Conditions and Items",
+	"author": "Insert Your Name Here",
+	"version": "1.4.0",
+	"minimumCoreVersion": "0.6.5",
+	"compatibleCoreVersion": "0.9",
+	"packs": [
+		{
+			"name": "cofd-conditions-core",
+			"label": "Chronicles of Darkness Conditions Core",
+			"path": "packs/cofd-conditions-core.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+				{
+			"name": "cofd-condition-postitive",
+			"label": "Chronicles of Darkness - Condition Positive",
+			"path": "packs/chronicles-of-darkness-condition-positive.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "btp-conditions",
+			"label": "Beast: The Primordial Conditions",
+			"path": "packs/btp-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "cofd-macros",
+			"label": "Chronicles of Darkness Roll Macros",
+			"path": "packs/cofd-macros.db",
+			"entity": "Macro",
+			"module": "strangeitemsshare"
+		},
+		{
+			"name": "ctl-conditions",
+			"label": "Changling: The Lost Conditions",
+			"path": "packs/ctl-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "dtd-conditions",
+			"label": "Demon: The Decent Conditions",
+			"path": "packs/dtd-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "mta-conditions",
+			"label": "Mage Conditions",
+			"path": "packs/mta-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "ptc-conditions",
+			"label": "Promethean: The Created Conditions",
+			"path": "packs/ptc-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "vtr-conditions",
+			"label": "Vampire: The Requium Conditions",
+			"path": "packs/vtr-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		},
+		{
+			"name": "wtf-conditions",
+			"label": "Werewolf: The Forsaken Conditions",
+			"path": "packs/wtf-conditions.db",
+			"entity": "Item",
+			"module": "cofditemsshare"
+		}
+
+	]
+}
