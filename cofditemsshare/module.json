@@ -78,5 +78,8 @@
 			"module": "cofditemsshare"
 		}
 
-	]
-}
+	],
+		"url": "https://github.com/Tanaka84/cofd",
+  		"manifest": "https://raw.githubusercontent.com/Tanaka84/cofd/main/cofditemsshare/module.json",
+  		"download": "https://github.com/Tanaka84/cofd/blob/main/cofditemsshare.zip?raw=true"
+  		}
